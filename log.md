@@ -1,30 +1,29 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Alexis De Leon
+The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: June 18, 2022 (
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I made an easybank landing page from Frontend Mentor using react js and sass.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm very excited to start this challenge, I started with an app challenge from Frontendmentor, at the same time i'm currently learning about Javascript and React.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Easybank landing page](https://easybank-landing-page-react-js.vercel.app/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: June 19, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:I started a new Frontendmentor challenge, this time a Sunnyside landing page .
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I am excited to start a new challenge and improve my skills although I still have a lot to learn.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Sunnyside Landing Page](https://sunnyside-landing-page-seven.vercel.app/)
 
 
-### Day 1: June 27, Monday
+### Day 1: June 20 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: i've done a responsive Navbar for the Sunnyside landing page using React.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** The challenge is still in progress, I'm anxious to finish it.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** [Sunnyside Landing Page](https://sunnyside-landing-page-seven.vercel.app/)
+
+
