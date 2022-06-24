@@ -1,7 +1,7 @@
 # 100 Days Of Code - Alexis De Leon
 The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 
-### Day 0: June 18, 2022 (
+### Day 0: June 18, 2022 
 
 **Today's Progress**: I made an easybank landing page from Frontend Mentor using react js and sass.
 
@@ -42,7 +42,7 @@ The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 
 **Link(s) to work** [Sunnyside Landing Page](https://sunnyside-landing-page-seven.vercel.app/)
 
-### Day 5: 24 June 2022
+### Day 5: June 24 2022
 
 **Today's Progress**: Today I've started a new challenge!!.
 
