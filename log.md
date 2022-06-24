@@ -9,7 +9,7 @@ The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 
 **Link to work:** [Easybank landing page](https://easybank-landing-page-react-js.vercel.app/)
 
-### Day 0: June 19, 2022 
+### Day 1: June 19, 2022 
 
 **Today's Progress**:I started a new Frontendmentor challenge, this time a Sunnyside landing page .
 
@@ -18,12 +18,36 @@ The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 **Link(s) to work**: [Sunnyside Landing Page](https://sunnyside-landing-page-seven.vercel.app/)
 
 
-### Day 1: June 20 2022
+### Day 2: June 20 2022
 
 **Today's Progress**: i've done a responsive Navbar for the Sunnyside landing page using React.
 
 **Thoughts** The challenge is still in progress, I'm anxious to finish it.
 
 **Link(s) to work** [Sunnyside Landing Page](https://sunnyside-landing-page-seven.vercel.app/)
+
+### Day 3: June 21 2022
+
+**Today's Progress**: Today I'm making the sections of the landing page
+
+**Thoughts** I like this challenge a lot and I using scss mixins.
+
+**Link(s) to work** [Sunnyside Landing Page](https://sunnyside-landing-page-seven.vercel.app/)
+
+### Day 4: June 22 2022
+
+**Today's Progress**: Today I've finished the Sunnyside landing page from react.
+
+**Thoughts** Today I've finished my solution making the web responsive with sass.
+
+**Link(s) to work** [Sunnyside Landing Page](https://sunnyside-landing-page-seven.vercel.app/)
+
+### Day 5: 24 June 2022
+
+**Today's Progress**: Today I've started a new challenge!!.
+
+**Thoughts** Today I will test my skills, this time making a new challenge from FrontendMentor.
+
+**Link(s) to work** [Sunnyside Landing Page](https://github.com/alexisdlr/Bookmark-landing-page)
 
 
