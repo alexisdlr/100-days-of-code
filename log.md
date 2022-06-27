@@ -51,3 +51,11 @@ The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 **Link(s) to work** [Sunnyside Landing Page](https://github.com/alexisdlr/Bookmark-landing-page)
 
 
+### Day 6: June 25 2022
+
+**Today's Progress**: Today I've started a new challenge!!.
+
+**Thoughts** Today I will test my skills, this time making a new challenge from FrontendMentor.
+
+
+
