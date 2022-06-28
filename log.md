@@ -57,7 +57,7 @@ The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 
 **Thoughts** Today I'm working on this project, a landing page challenge from FrontendMentor.
 
-**Link(s) to work** [Link to repo:](https://github.com/alexisdlr/Bookmark-landing-page) <br>
+**Link(s) to work** <br> [Link to repo:](https://github.com/alexisdlr/Bookmark-landing-page) <br>
                     [Link to live site:](https://bookmark-landing-page-two.vercel.app/)
              
 
@@ -67,8 +67,8 @@ The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 
 **Thoughts** Today I've finished this project, a landing page challenge from FrontendMentor, I used ReactJs and Sass to complete this challenge, also I'm still learning ReactJs.
 
-**Link(s) to work** [Link to repo:](https://github.com/alexisdlr/Bookmark-landing-page) <br>
-                    [Link to live site:](https://bookmark-landing-page-two.vercel.app/)             
+**Link(s) to work** <br> [Link to repo](https://github.com/alexisdlr/Bookmark-landing-page) <br>
+                    [Link to live site](https://bookmark-landing-page-two.vercel.app/)             
 
 
 
