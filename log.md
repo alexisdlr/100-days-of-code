@@ -70,5 +70,29 @@ The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 **Link(s) to work:** <br> [Link to repo](https://github.com/alexisdlr/Bookmark-landing-page) <br>
                     [Link to live site](https://bookmark-landing-page-two.vercel.app/)             
 
+### Day 8: June 28 2022
+
+**Today's Progress**: Today i'm started a JavaScript Algorithms and Data Structures Certification from FreeCodeCamp.
+
+**Thoughts** Today I reinforced my knowledge about arrays and objects in javascript thanks to Freecodecamp.
+
+### Day 9: June 29 2022
+
+**Today's Progress**: Today i've learned about the recursive on functions .
+
+**Thoughts** TToday I did some challenges about recursion in functions and I learned what recursion consists of
+
+### Day 10: June 29 2022
+
+**Today's Progress**: Today i've learned about the recursive on functions .
+
+**Thoughts** TToday I did some challenges about recursion in functions and I learned what recursion consists of
+
+### Day 11: June 30 2022
+
+**Today's Progress**: Today i've learned about object Math from Javascript .
+
+
+
 
 
