@@ -92,6 +92,9 @@ The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 
 **Today's Progress**: Today i've learned about object Math from Javascript .
 
+### Day 12: Jule 1 2022
+
+**Today's Progress**: Today I saw the use of the arrow functions and the concept of destructuring and although I already knew what each thing consists of, it helped me to reinforce my knowledge and understand it a little more thoroughly.
 
 
 
