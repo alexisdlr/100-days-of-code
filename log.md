@@ -92,10 +92,24 @@ The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 
 **Today's Progress**: Today i've learned about object Math from Javascript .
 
-### Day 12: Jule 1 2022
+### Day 12: July 1 2022
 
 **Today's Progress**: Today I saw the use of the arrow functions and the concept of destructuring and although I already knew what each thing consists of, it helped me to reinforce my knowledge and understand it a little more thoroughly.
 
+### Day 13: July 2 2022
 
+**Today's Progress**: Today I reviewed the destructuring syntax for assigning variables from nested objects on freeCodeCamp.
+
+### Day 14: July 3 2022
+
+**Today's Progress**: Today I went over everything about strings using literal templates and also about how to write short, declarative functions with ES6.
+
+### Day 15: July 4 2022 
+
+**Today's Progress**: Today I reviewed the Javascript modules and how to use export and import to share code blocks and reuse them across files.
+
+### Day 16: July 5 2022
+
+**Today's Progress**: Today I learned about the Javascript regular expressions, I'm still learning about Javascript doing the JavaScript Algorithms and Data Structures certification from FreeCodeCamp.
 
 
