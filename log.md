@@ -116,7 +116,7 @@ The log of my #100DaysOfCode challenge. Started on June 18, Saturday, 2022.
 
 **Today's Progress**:Today I'm doing a landing page of a challenge from Frontendmentor
 
-Using: 
+Using: <br>
  -ReactJs. <br>
  -Sass. <br>
  -Semantic HTML.<br>
@@ -125,11 +125,11 @@ Using:
 **Link(s) to work:** <br> [Link to code](https://github.com/alexisdlr/Loopstudios-landing-page) <br>
 
 
-### Day 17: July 7 2022
+### Day 17: July 8 2022
 
 **Today's Progress**: Today I made a lot of progress with the landing page, I will leave the code below, as well as the link to the live site
 
- Using: 
+ Using: <br>
  -ReactJs. <br>
  -Sass. <br>
  -Semantic HTML.<br>
