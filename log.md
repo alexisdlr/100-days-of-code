@@ -149,9 +149,17 @@ Using: <br>
 **Link(s) to work:** <br> [Link to code](https://github.com/alexisdlr/Loopstudios-landing-page) <br>
 **Link(s) to work:** <br> [Link to live site](https://loopstudios-landing-page-omega-olive.vercel.app/) <br>
 
-### Day 19:July 10 2022
+### Day 19: July 10 2022
 
-*Today's Progress**: Today I'm working on the responsive design to make the page visible on other devices!
+**Today's Progress**: Today I'm working on the responsive design to make the page visible on other devices!
+
+**Link(s) to work:** <br> [Link to code](https://github.com/alexisdlr/Loopstudios-landing-page) <br>
+**Link(s) to work:** <br> [Link to live site](https://loopstudios-landing-page-omega-olive.vercel.app/) <br>
+
+
+### Day 20: July 11 2022
+
+**Today's Progress**: today I've finished the landing page from Frontendmentor, I'm so happy with results but I know that I can improve my skills so much, so I'll still taking practice and learning!!
 
 **Link(s) to work:** <br> [Link to code](https://github.com/alexisdlr/Loopstudios-landing-page) <br>
 **Link(s) to work:** <br> [Link to live site](https://loopstudios-landing-page-omega-olive.vercel.app/) <br>
