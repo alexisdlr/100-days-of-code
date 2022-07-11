@@ -149,9 +149,9 @@ Using: <br>
 **Link(s) to work:** <br> [Link to code](https://github.com/alexisdlr/Loopstudios-landing-page) <br>
 **Link(s) to work:** <br> [Link to live site](https://loopstudios-landing-page-omega-olive.vercel.app/) <br>
 
-### Day 18: July 9 2022
+### Day 19:July 10 2022
 
-**Today's Progress**: Today I'm working on the responsive design to make the page visible on other devices!
+*Today's Progress**: Today I'm working on the responsive design to make the page visible on other devices!
 
 **Link(s) to work:** <br> [Link to code](https://github.com/alexisdlr/Loopstudios-landing-page) <br>
 **Link(s) to work:** <br> [Link to live site](https://loopstudios-landing-page-omega-olive.vercel.app/) <br>
