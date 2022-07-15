@@ -164,4 +164,21 @@ Using: <br>
 **Link(s) to work:** <br> [Link to code](https://github.com/alexisdlr/Loopstudios-landing-page) <br>
 **Link(s) to work:** <br> [Link to live site](https://loopstudios-landing-page-omega-olive.vercel.app/) <br>
 
+### Day 21: July 12 2022
+
+**Today's Progress**: today I've learned to how to match numbers and letters of the alphabet in regular expressions in the Freecodecamp course.
+
+**Today's Progress**: I learned how to match a single character with multiple possibilities.
+
+### Day 22: July 13 2022
+
+**Today's Progress**: Today I made an app with Javascript about a cryptocurrency quoter, I also used an API where I got some important data and prices of the coins.
+
+
+### Day 23: July 14 2022
+
+**Today's Progress**: Today I am working with JSON server for the first time to simulate a REST API, I am very excited to learn more about how to consume some external service and then create my own APIs with Javascript.
+
+
+
 
