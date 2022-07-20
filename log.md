@@ -180,5 +180,35 @@ Using: <br>
 **Today's Progress**: Today I am working with JSON server for the first time to simulate a REST API, I am very excited to learn more about how to consume some external service and then create my own APIs with Javascript.
 
 
+### Day 24: July 16 2022
+
+**Today's Progress**: Today I am working on a school project with ReactJs, it is an application on CRUD of products for a paint seller, where he will be able to manage the inputs and outputs of the product.
+
+
+### Day 25: July 17 2022
+
+**Today's Progress**: Today I am learning Figma, and how to take advantage of its use in web design, I am very excited because it is the first time that I will use this platform and I hope to be able to take full advantage of it !!!, also i'm still working on Javascript, I really likes the web development and I love that language.
+
+
+### Day 26: July 18 2022
+
+**Today's Progress**:  Today I am going to learn the basics of Firebase since I will be using it to authenticate users in a React project that I will work with a partner.
+
+
+### Day 27: July 19 2022
+
+**Today's Progress**:  Today I am going to learn the basics of Firebase since I will be using it to authenticate users in a React project that I will work with a partner.
+
+
+### Day 28: July 20 2022
+
+**Today's Progress**: Today I have learned about what it is and how to use async/await and try catch in Javascript and how to implement it with Fetch API.
+**Today's Progress**: I have implemented Async/await in one of my projects, this is an online image search engine where with the new async/await syntax I am querying a pixabay API, before this I only used fetch.
+
+
+**Link(s) to work:** <br> [Link to code](https://github.com/alexisdlr/Images-Browser) <br>
+**Link(s) to work:** <br> [Link to live site](https://images-browser.vercel.app/) <br>
+
+
 
 
